@@ -1,4 +1,4 @@
-# Learning-Terraform from Derek Morgan
+# Learning-Terraform from Derek Morgan and personal projects
 
 https://www.udemy.com/course/terraform-certified/
 
